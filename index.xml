@@ -10,9 +10,9 @@
         <link rel="screenshot">https://raw.githubusercontent.com/Aiwist/ai-transcriber/main/assets/screenshots/screen-2.png</link>
       </metadata>
       <version name="1.0.2" author="Aiwist" time="2026-11-13T13:58:18Z">
-        <changelog>Synchronize application version labels in the installer, bundled notices and user documentation.
-Regenerate the license sheet from current component notices and validate its version before packaging.
-Remove obsolete base-version metadata and legacy upgrade instructions.</changelog>
+        <changelog>Audio to MIDI in REAPER: local transcription on CPU or Vulkan GPU.
+Install through ReaPack or with the standalone ZIP installer; both deliver the same files.
+Models Small, Medium and Large are installed in Settings; licenses are shown on first launch.</changelog>
         <source platform="win64" file="Aiwist_Transcriber.lua" main="main">https://raw.githubusercontent.com/Aiwist/ai-transcriber/v1.0.2/Transcriber/Aiwist_Transcriber.lua</source>
         <source platform="win64" file="INSTALL_LICENSES_RU.txt">https://raw.githubusercontent.com/Aiwist/ai-transcriber/v1.0.2/Transcriber/INSTALL_LICENSES_RU.txt</source>
         <source platform="win64" file="NOTICE.txt">https://raw.githubusercontent.com/Aiwist/ai-transcriber/v1.0.2/Transcriber/NOTICE.txt</source>
